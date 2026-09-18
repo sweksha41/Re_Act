@@ -13,3 +13,13 @@ Steps to run:
 Groq Models:
 - You can find the groq model accessible to you on your groq logged-in portal
 <img width="295" height="500" alt="image" src="https://github.com/user-attachments/assets/8fb92839-b0a5-42d2-91a0-896df718fe9c" />
+
+
+This is the way to call promptEngine end point and response content is OTHER when prompt is irrelevant
+
+
+![img.png](img.png)
+
+This is the way to call promptEngine end point and response content is Technical when prompt is relevant
+
+![img_1.png](img_1.png)
