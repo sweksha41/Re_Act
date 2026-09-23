@@ -27,9 +27,9 @@ public class GroqService {
         Map<String, Object> body = Map.of(
                 "model", model,
                 "messages", List.of(
-                        //system
+                        //system role
                         Map.of("role", "system", "content", "you are my manager."),
-                        //user
+                        //user role
                         Map.of("role", "user", "content", "I will decide my own working hour."),
                         Map.of("role", "user", "content", "I Want to work 4 days a week."),
                         Map.of("role", "user", "content", "I will only work 6 hour a day."),
