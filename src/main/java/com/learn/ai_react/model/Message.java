@@ -1,4 +1,4 @@
-package com.learn.groq_demo.model;
+package com.learn.ai_react.model;
 
 public record Message(
         String role,

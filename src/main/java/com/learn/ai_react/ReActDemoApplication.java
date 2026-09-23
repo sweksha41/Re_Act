@@ -1,13 +1,13 @@
-package com.learn.groq_demo;
+package com.learn.ai_react;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GroqDemoApplication {
+public class ReActDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GroqDemoApplication.class, args);
+		SpringApplication.run(ReActDemoApplication.class, args);
 	}
 
 }

@@ -1,4 +1,5 @@
-package com.learn.groq_demo.model;
+
+package com.learn.ai_react.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

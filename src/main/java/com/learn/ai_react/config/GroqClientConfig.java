@@ -1,4 +1,4 @@
-package com.learn.groq_demo.config;
+package com.learn.ai_react.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
